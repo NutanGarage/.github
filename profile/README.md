@@ -40,7 +40,7 @@ Please read the `CONTRIBUTING.md` in each repo before submitting.
 
 ## 📬 Connect with Nutan
 
-- 🐙 GitHub: [@nutan](https://github.com/nutan)
+- 🐙 GitHub: [@nutanshinde](https://github.com/nutanshinde1)
 - 💼 LinkedIn: [Nutan Shinde](https://www.linkedin.com/in/nutan-shinde-00b688292/)
 - 🌐 Portfolio: [nutanshinde1.github.io](https://nutanshinde1.github.io/MyPortfolio/)
 
