@@ -1,8 +1,8 @@
-# 🔧 Welcome to NutanGarage!
+# 🔧 Welcome 
 
 > *Where learning gets built, one repo at a time.*
 
-Hey there! I'm **Nutan**, and this is my open-source learning garage — a place where developers at every level can find roadmaps, challenges, tutorials, and beginner-friendly projects to level up their skills.
+Hey there! I'm **Nutan**, and this is my open-source learning organisatione — a place where developers at every level can find roadmaps, challenges, tutorials, and beginner-friendly projects to level up their skills.
 
 Whether you're just starting out or sharpening your craft, there's something here for you. Pull up a chair, grab your tools, and let's build together. 🚀
 
@@ -54,4 +54,4 @@ Please read the `CONTRIBUTING.md` in each repo before submitting.
 
 ---
 
-*"The best way to learn is to build."* — NutanGarage 🔧
+*"The best way to learn is to build."*  
